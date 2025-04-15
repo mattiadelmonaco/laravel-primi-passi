@@ -29,8 +29,8 @@
 </header>
 
 <main>
-    <h1>HomePage</h1>
-    <img src="https://cdn.pixabay.com/photo/2016/02/08/11/24/homepage-1186348_1280.jpg" alt="immagine Homepage" width="300">
+    <h1>Pagina 2</h1>
+    <img src="https://static.vecteezy.com/ti/vettori-gratis/p1/5494350-il-numero-2-disegnato-in-stile-doodle-contorno-disegno-a-mano-immagine-in-bianco-e-nero-illustrazione-di-matematica-e-aritmetica-in-bianco-e-nero-gratuito-vettoriale.jpg" alt="immagine pagina 2" height="200">
 </main>
     
 </body>
