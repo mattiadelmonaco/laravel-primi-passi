@@ -10,19 +10,19 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/">HomePage</a>
+                    <a href="{{ route('home') }}">HomePage</a>
                 </li>
                 <li>
-                    <a href="/page-2">Pagina 2</a>
+                    <a href="{{ route('page-2') }}">Pagina 2</a>
                 </li>
                 <li>
-                    <a href="/page-3">Pagina 3</a>
+                    <a href="{{ route('page-3') }}">Pagina 3</a>
                 </li>
                 <li>
-                    <a href="/page-4">Pagina 4</a>
+                    <a href="{{ route('page-4') }}">Pagina 4</a>
                 </li>
                 <li>
-                    <a href="/page-5">Pagina 5</a>
+                    <a href="{{ route('page-5') }}">Pagina 5</a>
                 </li>
             </ul>
         </nav>
